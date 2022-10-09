@@ -1,0 +1,49 @@
+p{
+			font-size: 25px;
+			color: #00b1ff;
+			
+			margin: 30px 40px;
+			padding: 50px;
+			font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Silkscreen', cursive;
+		}
+		img{                                                                    
+			height: 400px;
+			width: 500px;
+		}
+		img{
+			max-width: 100%;
+			height: auto;
+			display: block;
+		}
+		body{
+			background-color: black;
+		} 
+		div{
+			background-color: black;
+			width: 85%;
+			margin: auto;
+			box-shadow: 0 0 200px 50px rgba(20, 8, 255, 1);
+		}
+		a{
+			font-size: 36px;
+			color: #00b1ff;
+			font-family: Impact;
+			text-decoration:none ;
+			display: block;
+			margin: 1px;
+		}
+		h1{
+			font-size: 36px;
+			color: #00b1ff;
+			font-family: Impact;
+		}
+		h2{
+			font-size: 36px;
+			color: #00b1ff;
+			font-family: Impact;
+		}
+		a:hover{
+			color: limegreen;
+		}
